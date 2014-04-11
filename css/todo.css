@@ -1,0 +1,12 @@
+/*Sidebar*/
+.sidebar-title {font-weight: bold;}
+.nav-cat li.active {background: #EEEEEE;}
+
+/*Task list*/
+.table tr.task-done td { background:#f9f9f9;}
+.table tr.task-unplanned td { background:#fff;}
+.table tr.task-planned td { background:#f2dede;}
+.table tr.task-in_progress td { background:#fcf8e3;}
+.table tr.task-true td, .table tr.task-true td label, .table tr td.done, .table tr td.done label  {text-decoration: line-through;}
+/*Datepicker*/
+.datepicker {z-index: 10000!important;}

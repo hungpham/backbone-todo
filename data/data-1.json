@@ -1,0 +1,25 @@
+{
+	'status': 	1,
+	'message': 	'Load Data success.',
+	'data':		{
+		'category': ['Workplace', 'Homeplace'],
+		'status', {
+			'unplanned':	'Unplanned',
+			'planned':		'Planned',
+			'in_progress':	'In progress',
+			'done':			'Done'
+		},
+		'task': {
+			{
+				'name':'learn angular', 
+				'status':'unplanned',
+				'due': 
+			},
+		},
+		'archive': {
+			'2013': {
+				
+			}
+		}
+	}
+}
